@@ -20,9 +20,6 @@
         software testing & automation researcher
       </h3>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/mini-cyber-joselito.png" width="260" alt="Joselito Júnior Cyberpunk Mini Avatar" />
-    </td>
   </tr>
 </table>
 
