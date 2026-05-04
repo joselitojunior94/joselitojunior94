@@ -5,20 +5,28 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cyberpunk-me.png" width="180" alt="Joselito Júnior Cyberpunk Avatar"/>
+  <img src="./assets/cyberpunk-banner.png" alt="Cyberpunk Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/MOBILE-FF00FF?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/APPLIED_AI-7DF9FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLMs-9D00FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOFTWARE_TESTING-00FFC6?style=for-the-badge&logo=selenium&logoColor=black" />
-</p>
+<br>
 
----
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h1>JOSELITO JÚNIOR</h1>
+      <h3>
+        software engineer, full-stack & mobile developer,<br>
+        applied AI & LLMs enthusiast,<br>
+        software testing & automation researcher
+      </h3>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./assets/mini-cyber-joselito.png" width="260" alt="Joselito Júnior Cyberpunk Mini Avatar" />
+    </td>
+  </tr>
+</table>
 
-## ⚡ About Me
+<br>
 
 I build full-stack and mobile software systems that integrate software engineering, automation, applied AI, and software testing to improve software quality, developer productivity, and real-world digital services.
 
@@ -26,31 +34,20 @@ I'm a Software Engineer and PhD researcher in Computer Science at the Federal Un
 
 ---
 
-## 🚀 What I Work With
+## 🚀 What I work with
 
-### Software Engineering
-Full-stack development, APIs, system design, software architecture, testing, maintainability, and product-oriented engineering.
-
-### Mobile Development
-Flutter, React Native, Android, iOS, Kotlin, Swift, and Dart.
-
-### Backend & Web
-Python, Java, JavaScript, TypeScript, Django, Flask, Spring MVC, Ruby on Rails, .NET, REST APIs, and PostgreSQL.
-
-### Applied AI & LLMs
-Machine learning, LLM-based pipelines, AI-assisted software engineering, classification, data analysis, and intelligent developer tools.
-
-### Software Testing & Automation
-Test automation, defect analysis, issue report analysis, software quality, and empirical evaluation.
-
-### Repository Mining
-GitHub API, issue mining, dataset construction, repository analytics, and software engineering research tooling.
+- **Software Engineering:** full-stack development, APIs, system design, software architecture, testing, maintainability, and product-oriented engineering.
+- **Mobile Development:** Flutter, React Native, Android, iOS, Kotlin, Swift, and Dart.
+- **Backend & Web:** Python, Java, JavaScript, TypeScript, Django, Flask, Spring MVC, Ruby on Rails, .NET, REST APIs, and PostgreSQL.
+- **Applied AI & LLMs:** machine learning, LLM-based pipelines, AI-assisted software engineering, classification, data analysis, and intelligent developer tools.
+- **Software Testing & Automation:** test automation, defect analysis, issue report analysis, software quality, and empirical evaluation.
+- **Repository Mining:** GitHub API, issue mining, dataset construction, repository analytics, and software engineering research tooling.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-7DF9FF?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,23 +58,18 @@ GitHub API, issue mining, dataset construction, repository analytics, and softwa
   <img src="https://img.shields.io/badge/C%23-7DF9FF?style=for-the-badge&logo=csharp&logoColor=black" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-9D00FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-00FFC6?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-00FFC6?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-00F5FF?style=for-the-badge&logo=android&logoColor=black" />
   <img src="https://img.shields.io/badge/iOS-FF00FF?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-7DF9FF?style=for-the-badge&logo=django&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-9D00FF?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-00FFC6?style=for-the-badge&logo=spring&logoColor=black" />
   <img src="https://img.shields.io/badge/.NET-00F5FF?style=for-the-badge&logo=dotnet&logoColor=black" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-7DF9FF?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-9D00FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-00FFC6?style=for-the-badge&logo=docker&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-00F5FF?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-7DF9FF?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-9D00FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -141,7 +133,7 @@ I'm currently interested in Software Engineering, Full-Stack Engineering, Mobile
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with me
 
 - **LinkedIn:** [linkedin.com/in/joselito-júnior-82b742218](https://www.linkedin.com/in/joselito-j%C3%BAnior-82b742218)
 - **GitHub:** [github.com/joselitojunior94](https://github.com/joselitojunior94)
