@@ -12,14 +12,13 @@
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="middle">
-      <h1>JOSELITO JÚNIOR</h1>
+   
       <h3>
         software engineer, full-stack & mobile developer,<br>
         applied AI & LLMs enthusiast,<br>
         software testing & automation researcher
       </h3>
-    </td>
+ 
   </tr>
 </table>
 
