@@ -10,17 +10,12 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-   
-      <h3>
-        software engineer, full-stack & mobile developer,<br>
-        applied AI & LLMs enthusiast,<br>
-        software testing & automation researcher
-      </h3>
- 
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/software%20engineer-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/full--stack%20%26%20mobile-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/applied%20AI%20%26%20LLMs-9D00FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/software%20testing%20%26%20automation-00FFC6?style=for-the-badge&logo=selenium&logoColor=black" />
+</p>
 
 <br>
 
