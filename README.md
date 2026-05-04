@@ -10,15 +10,6 @@
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/software%20engineer-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/full--stack%20%26%20mobile-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/applied%20AI%20%26%20LLMs-9D00FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/software%20testing%20%26%20automation-00FFC6?style=for-the-badge&logo=selenium&logoColor=black" />
-</p>
-
-<br>
-
 I build full-stack and mobile software systems that integrate software engineering, automation, applied AI, and software testing to improve software quality, developer productivity, and real-world digital services.
 
 I'm a Software Engineer and PhD researcher in Computer Science at the Federal University of Bahia (UFBA), with international research experience at Polytechnique Montréal. My work combines practical software development, empirical software engineering, applied AI, Large Language Models, Mining Software Repositories, software testing, defect classification, and automated bug reproduction.
